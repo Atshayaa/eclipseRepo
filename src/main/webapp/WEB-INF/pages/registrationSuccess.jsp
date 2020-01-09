@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-registration is successful
+registration is successfully
 </body>
 </html>
